@@ -18,8 +18,8 @@ authors = ["TE Hardwicke", "JPA Ioannidis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature Human Behaviour*, Nat. Hum. Behav.."
-publication_short = "In *Nat. Hum. Behav.*"
+publication = "*Nature Human Behaviour*"
+publication_short = "*Nature Human Behaviour*"
 
 # Abstract and optional shortened version.
 abstract = "Registered reports present a substantial departure from traditional publishing models with the goal of enhancing the transparency and credibility of the scientific literature. We map the evolving universe of registered reports to assess their growth, implementation and shortcomings at journals across scientific disciplines."
@@ -52,7 +52,7 @@ url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Data", url = "https://osf.io/7dpwb/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

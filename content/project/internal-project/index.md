@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "Tom Hardwicke"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-01-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "An example of using the in-built project page."
