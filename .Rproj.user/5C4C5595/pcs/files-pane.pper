@@ -1,5 +1,5 @@
 {
-    "path" : "~/metricb_website/content/home",
+    "path" : "~/website_METRICB/themes/hugo-academic/layouts/partials",
     "sortOrder" : [
         {
             "ascending" : true,

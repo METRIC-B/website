@@ -1,0 +1,82 @@
+/*************************************************
+ *  A METRIB-B custom theme for Hugo Academic
+ *  Set `custom_css = ["theme_METRICB.css"] in `config.toml`.
+ *  Then save this file as `/static/css/theme_METRICB.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+a,
+a:visited,
+h3.article-title a:hover {
+    color: #4867a4;
+}
+
+a:hover {
+    color: #8297c1;
+    text-decoration: none;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.btn-primary,
+.btn-primary.btn-outline {
+    color: #8297c1;
+}
+
+/* Articles */
+
+.article-title a {
+    color: #151515;
+}
+
+.article-metadata a {
+    color: #888;
+}
+
+.article-metadata a:hover {
+    color: rgb(76,175,80);
+}
+
+/* Standard buttons */
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: #4867a4;
+}
+
+/* Hover buttons */
+
+.btn-primary.btn-outline:hover {
+    border-color: #8297c1;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.btn-primary.btn-outline:active {
+    background-color: #4867a4;
+}
+
+/* Standard buttons */
+
+.btn,
+.btn.btn-outline {
+    border-color: #4867a4;
+}
+
+/* Hover buttons */
+
+.btn.btn-outline:hover {
+    border-color: #8297c1;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:visited,
+.btn.btn-outline:active {
+    background-color: #4867a4;
+}
+
