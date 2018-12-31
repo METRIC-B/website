@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <loc>/talk/tomhardwicke/2018/bankofengland/</loc>
+      <lastmod>2018-11-07T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>/publication/data-ark/</loc>
+      <lastmod>2018-08-02T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     </url>
@@ -44,7 +52,7 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,14 +68,6 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -76,24 +76,8 @@
     
     <url>
     
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -134,18 +118,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
+      <loc>/team/johnioannidis/</loc>
     </url>
     
   
@@ -154,15 +127,6 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -215,6 +179,21 @@
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/team/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/team/tomhardwicke/</loc>
     </url>
     
   

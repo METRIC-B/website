@@ -6,7 +6,7 @@
     <description>Recent content in 2 on Meta-Research Innovation Center Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
@@ -18,16 +18,16 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/registered-reports-universe/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>Populating The Data Ark: An attempt to obtain and preserve data from the most highly-cited psychology and psychiatry articles</title>
+      <link>/publication/data-ark/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/data-ark/</guid>
+      <description></description>
     </item>
     
   </channel>

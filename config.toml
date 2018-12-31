@@ -13,7 +13,7 @@ title = "Meta-Research Innovation Center Berlin"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -63,14 +63,9 @@ enableGitInfo = false
   avatar = "METRICB_simple_logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
+  email = "metricb.team@gmail.com"
+  address = ""
+  #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
@@ -97,7 +92,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
@@ -113,7 +108,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -260,15 +255,15 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/METRIC_Berlin"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "https://twitter.com/METRIC_Berlin"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -289,31 +284,41 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+[[menu.main]]
+  name = "Team"
+  url = "#team"
+  weight = 2
+  
+[[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
+  
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+  
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
 #   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
-
 # [[menu.main]]
 #   name = "Tutorials"
 #   url = "/tutorial/"
 #   weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

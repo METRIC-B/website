@@ -1,0 +1,27 @@
+{{ $item := .item }}
+{{ $widget := .widget }}
+
+{{ $link := .link }}
+{{ $target := .target }}
+
+{{ $resource := ($item.Resources.ByType "image").GetMatch "*portrait*" }}
+{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+  <div>
+    {{ with $resource }}
+    {{ $image := .Resize (printf "175x q100 %s") }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+      <img src="{{ $image.RelPermalink }}" alt="" class="img-responsive">
+    </a>
+    {{ end }}
+    <div class="card-text">
+      <span align="center">
+        <h3><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a></h3>
+        <div class="card-desription">
+          {{ with $item.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </span>
+    </div>
+  </div>
+</div>

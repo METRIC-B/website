@@ -46,7 +46,7 @@
 
       {{ if and $.Site.Params.email (not $page.Params.email_form) }}
       <li>
-        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
         <span id="person-email" itemprop="email">
         {{- if $autolink }}<a href="mailto:{{ $.Site.Params.email }}">{{ $.Site.Params.email }}</a>{{ else }}{{ $.Site.Params.email }}{{ end -}}
         </span>
@@ -55,7 +55,7 @@
 
       {{ with $.Site.Params.discussion }}
       <li>
-        <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-comments fa-2x" aria-hidden="true"></i>
         <span>
           <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
         </span>
@@ -73,7 +73,7 @@
 
       {{ with $.Site.Params.phone }}
       <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-phone fa-2x" aria-hidden="true"></i>
         <span id="person-telephone" itemprop="telephone">
         {{- if $autolink }}<a href="tel:{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
         </span>
@@ -100,21 +100,21 @@
 
       {{ with $.Site.Params.address }}
       <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
         <span id="person-address" itemprop="address">{{ . | markdownify | emojify }}</span>
       </li>
       {{ end }}
 
       {{ with $.Site.Params.office_hours }}
       <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-clock fa-2x" aria-hidden="true"></i>
         <span>{{ . | markdownify | emojify }}</span>
       </li>
       {{ end }}
 
       {{ with $.Site.Params.appointment_url }}
       <li>
-        <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-calendar-check fa-2x" aria-hidden="true"></i>
         <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>
       </li>
       {{ end }}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on Meta-Research Innovation Center Berlin</title>
+    <link>/team/</link>
+    <description>Recent content in Teams on Meta-Research Innovation Center Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John Ioannidis</title>
+      <link>/team/johnioannidis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/johnioannidis/</guid>
+      <description>John P.A. Ioannidis, MD, DSc is the C.F. Rehnborg Professor in Disease Prevention, and Professor of Medicine, of Health Research and Policy, and of Statistics at Stanford University and an Einstein BIH Visting Fellow at Charité – Universitätsmedizin Berlin. Dr. Ioannidis is internationally recognized as a leader in empirical studies assessing biases, replication, and reliability of research findings in biomedicine and beyond. He has served as President of the Society for Research Synthesis Methodology, Senior Advisor for Knowledge Integration at the National Cancer Institute, editorial board member of 30 leading international journals and Editor-in-Chief of the European Journal of Clinical Investigation.</description>
+    </item>
+    
+    <item>
+      <title>Tom Hardwicke</title>
+      <link>/team/tomhardwicke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/tomhardwicke/</guid>
+      <description>Tom completed a BSc in Psychology at Cardiff University, MRes in Brain Imaging and Cognitive Neuroscience at The University of Birmingham, and PhD in Experimental Psychology at University College London before joining the Meta-Research Innovation Center at Stanford (METRICS) as a Postdoctoral Fellow in 2017. After two happy years in the Californian sunshine, Tom is now heading across the pond to Germany in January 2019 to set up the Meta-Research Innovation Center Berlin (METRIC-B).</description>
+    </item>
+    
+  </channel>
+</rss>

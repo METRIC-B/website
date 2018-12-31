@@ -4,7 +4,7 @@ date = 2018-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["TE Hardwicke", "JPA Ioannidis"]
+authors = ["Tom Hardwicke", "John Ioannidis"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,6 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature Human Behaviour*"
-publication_short = "*Nature Human Behaviour*"
 
 # Abstract and optional shortened version.
 abstract = "Registered reports present a substantial departure from traditional publishing models with the goal of enhancing the transparency and credibility of the scientific literature. We map the evolving universe of registered reports to assess their growth, implementation and shortcomings at journals across scientific disciplines."
@@ -28,34 +27,20 @@ abstract = "Registered reports present a substantial departure from traditional 
 selected = true
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["internal-project"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
-# Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "https://osf.io/uzfjp/"
-url_dataset = "https://osf.io/7dpwb/"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+projects = ["tomhardwicke", "johnioannidis"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Data", url = "https://osf.io/7dpwb/"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
+url_custom = [
+{name = "DOI", url = "https://doi.org/10.1038/s41562-018-0444-y"},
+{name = "PDF", url = "https://rdcu.be/8eBP"},
+{name = "Preprint", url = "https://dx.doi.org/10.17605/OSF.IO/FZPCY"},
+{name = "Data", url = "https://osf.io/rv7eb/"},
+{name = "Materials", url = "https://osf.io/uzegq/"},
+{name = "Analysis Code", url = "https://osf.io/uzfjp/"},
+{name = "Reproducible Container", url = "https://doi.org/10.24433/CO.03fa2564-3910-4982-9882-4f2fcec50385.v3"},
+{name = "Commentary", url = "https://doi.org/10.1038/s41562-018-0449-6"}
+]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -64,11 +49,9 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

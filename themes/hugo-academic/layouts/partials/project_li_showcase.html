@@ -24,16 +24,17 @@
       <h3 class="article-title mb-0 mt-0" itemprop="name">
         {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }} itemprop="url">{{end -}}
         {{ $item.Title }}
+        
         {{- if $do_link}}</a>{{end -}}
       </h3>
 
-      {{ $summary := "" }}
-      {{ if $item.Params.summary }}
-        {{ $summary = $item.Params.summary | markdownify }}
+      {{ $subtitle := "" }}
+      {{ if $item.Params.subtitle }}
+        {{ $subtitle = $item.Params.subtitle | markdownify }}
       {{ else if $item.Truncated }}
-        {{ $summary = $item.Summary }}
+        {{ $subtitle = $item.Subtitle }}
       {{ end }}
-      {{ with $summary }}
+      {{ with $subtitle }}
       <div class="article-style" itemprop="articleBody">
         {{ . }}
       </div>
@@ -45,9 +46,9 @@
 
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
-      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ $resource := ($item.Resources.ByType "image").GetMatch "*portrait*" }}
       {{ with $resource }}
-      {{ $image := .Resize "540x" }}
+      {{ $image := .Resize "225x" }}
       {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
         <img src="{{ $image.RelPermalink }}" itemprop="image" alt="">
       {{if $do_link}}</a>{{end}}
