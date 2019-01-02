@@ -1,5 +1,5 @@
 {
-    "path" : "~/website_METRICB/static/css",
+    "path" : "~/website_METRICB/layouts/partials",
     "sortOrder" : [
         {
             "ascending" : true,
