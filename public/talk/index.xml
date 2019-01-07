@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Rehabilitating the scientific ecosystem</title>
       <link>/talk/tomhardwicke/2018/bankofengland/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/talk/tomhardwicke/2018/bankofengland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducibility and improving research practices</title>
+      <link>/talk/johnioannidis/2016/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/johnioannidis/2016/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Meta-Research Innovation Center Berlin</title>
+    <link>/media/</link>
+    <description>Recent content in Media on Meta-Research Innovation Center Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast: STEM-Talk</title>
+      <link>/media/pod1/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/pod1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast: The Recommended Dose </title>
+      <link>/media/pod2/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/pod2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog on The Attrition of the Modern Scholarly Record</title>
+      <link>/media/blog1/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog: Are open data actually reusable?</title>
+      <link>/media/blog2/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog: Where do the numbers published in scientific articles come from?</title>
+      <link>/media/blog3/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

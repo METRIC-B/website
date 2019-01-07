@@ -306,9 +306,14 @@ enableGitInfo = false
   weight = 5
   
 [[menu.main]]
+  name = "Media"
+  url = "/media/"
+  weight = 6
+  
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
   
 # [[menu.main]]
 #   name = "Posts"

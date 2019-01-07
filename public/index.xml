@@ -7,22 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Podcast: STEM-Talk</title>
+      <link>/media/pod1/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/pod1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast: The Recommended Dose </title>
+      <link>/media/pod2/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/pod2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog on The Attrition of the Modern Scholarly Record</title>
+      <link>/media/blog1/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog: Are open data actually reusable?</title>
+      <link>/media/blog2/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog: Where do the numbers published in scientific articles come from?</title>
+      <link>/media/blog3/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/blog3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rehabilitating the scientific ecosystem</title>
       <link>/talk/tomhardwicke/2018/bankofengland/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/talk/tomhardwicke/2018/bankofengland/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Reproducibility and improving research practices</title>
+      <link>/talk/johnioannidis/2016/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/johnioannidis/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mapping the universe of registered reports</title>
       <link>/publication/registered-reports-universe/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/registered-reports-universe/</guid>
       <description></description>
@@ -31,7 +85,7 @@
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -51,26 +105,16 @@
     <item>
       <title>Populating The Data Ark: An attempt to obtain and preserve data from the most highly-cited psychology and psychiatry articles</title>
       <link>/publication/data-ark/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/data-ark/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
