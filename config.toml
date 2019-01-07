@@ -305,10 +305,10 @@ enableGitInfo = false
   url = "#talks"
   weight = 5
   
-[[menu.main]]
-  name = "Media"
-  url = "/media/"
-  weight = 6
+#[[menu.main]]
+#  name = "Media"
+#  url = "/media/"
+#  weight = 6
   
 [[menu.main]]
   name = "Contact"
