@@ -11,51 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Podcast: STEM-Talk</title>
-      <link>/media/pod1/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/pod1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast: The Recommended Dose </title>
-      <link>/media/pod2/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/pod2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog on The Attrition of the Modern Scholarly Record</title>
-      <link>/media/blog1/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/blog1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog: Are open data actually reusable?</title>
-      <link>/media/blog2/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/blog2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blog: Where do the numbers published in scientific articles come from?</title>
-      <link>/media/blog3/</link>
-      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/blog3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rehabilitating the scientific ecosystem</title>
       <link>/talk/tomhardwicke/2018/bankofengland/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
@@ -541,6 +496,44 @@ Figure 1: A fancy pie chart.
       
       <guid>/team/johnioannidis/</guid>
       <description>&lt;p&gt;John P.A. Ioannidis, MD, DSc is the C.F. Rehnborg Professor in Disease Prevention, and Professor of Medicine, of Health Research and Policy, of Biomedical Data Science, and of Statistics at Stanford University and an Einstein BIH Visiting Fellow at Charité – Universitätsmedizin Berlin. Dr. Ioannidis is internationally recognized as a leader in empirical studies assessing biases, replication, and reliability of research findings in biomedicine and beyond. He has received numerous awards and honorary doctorates and titles and he is a member of the US National Academy of Medicine and of the European Academy of Sciences and Arts. He has served as President of the Society for Research Synthesis Methodology, Senior Advisor for Knowledge Integration at the National Cancer Institute, editorial board member of 30 leading international journals and Editor-in-Chief of the European Journal of Clinical Investigation. He is one of the most-cited scientists worldwide. His PLoS Medicine paper on “Why most Published Research Findings are False,” has been the most-accessed article in the history of Public Library of Science with over 2.5 million hits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/media/</guid>
+      <description>
+
+
+&lt;div id=&#34;podcasts&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Podcasts&lt;/h2&gt;
+&lt;div id=&#34;stem-talk&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-podcast&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.ihmc.us/stemtalk/episode-77/&#34;&gt;STEM-Talk&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;John Ioannidis discusses his paper ‘Why most published research findings are false’.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-recommended-dose&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-podcast&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://player.fm/series/the-recommended-dose-with-ray-moynihan/ep-09-john-ioannidis&#34;&gt;The Recommended Dose&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;John Ioannidis talks to Ray Moynihan about the far-reaching implications of his paper ‘Why most published research findings are false’ for people both inside and outside the world of health.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blog-posts&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Blog posts&lt;/h2&gt;
+&lt;div id=&#34;the-attrition-of-the-modern-scholarly-record&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-bullhorn&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://tomhardwicke.netlify.com/blog/attrition-scholarly-record/&#34;&gt;The Attrition of the Modern Scholarly Record&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Tom Hardwicke argues that an extensive and ongoing attrition of the modern scholarly record is impeding important research activties and introduces the Data Ark project: an attempt to retrieve, preserve, and liberate the influential scientific data.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;are-open-data-actually-reusable&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-bullhorn&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://tomhardwicke.netlify.com/blog/open-data-reusability/&#34;&gt;Are open data actually reusable?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Tom Hardwicke discusses why open data alone will not be enough to achieve the benefits envisioned by proponents of data sharing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;where-do-the-numbers-published-in-scientific-articles-come-from&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-bullhorn&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://tomhardwicke.netlify.com/blog/psychology-reproducibility/&#34;&gt;Where do the numbers published in scientific articles come from?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Tom Hardwicke describes how a recent attempt to reproduce findings reported in a sample of psychology articles revealed analysis pipelines peppered with errors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

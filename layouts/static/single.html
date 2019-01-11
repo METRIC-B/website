@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "static_header.html" . }}
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+  <div class="article-container">
+    <div class="article-style">
+
+      {{ .Content }}
+
+    </div>
+  </div>
+
+
+</article>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

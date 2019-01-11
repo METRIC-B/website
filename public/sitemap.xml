@@ -4,46 +4,6 @@
     
     <url>
     
-      <loc>/media/pod1/</loc>
-      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/media/pod2/</loc>
-      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/media/blog1/</loc>
-      <lastmod>2019-01-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/media/blog2/</loc>
-      <lastmod>2019-01-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/media/blog3/</loc>
-      <lastmod>2019-01-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/tomhardwicke/2018/bankofengland/</loc>
       <lastmod>2018-11-07T00:00:00+01:00</lastmod>
     </url>
@@ -166,8 +126,6 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

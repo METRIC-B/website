@@ -1,0 +1,30 @@
+---
+title: Media
+author: ""
+slug: media
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+type: 'static'
+---
+
+## Podcasts
+
+#### <i class="fa fa-podcast" aria-hidden="true"></i> [STEM-Talk](https://www.ihmc.us/stemtalk/episode-77/)
+John Ioannidis discusses his paper 'Why most published research findings are false'.
+
+#### <i class="fa fa-podcast" aria-hidden="true"></i> [The Recommended Dose](https://player.fm/series/the-recommended-dose-with-ray-moynihan/ep-09-john-ioannidis)
+John Ioannidis talks to Ray Moynihan about the far-reaching implications of his paper 'Why most published research findings are false' for people both inside and outside the world of health.
+
+## Blog posts
+
+#### <i class="fa fa-bullhorn" aria-hidden="true"></i> [The Attrition of the Modern Scholarly Record](https://tomhardwicke.netlify.com/blog/attrition-scholarly-record/)
+Tom Hardwicke argues that an extensive and ongoing attrition of the modern scholarly record is impeding important research activties and introduces the Data Ark project: an attempt to retrieve, preserve, and liberate the influential scientific data.
+
+#### <i class="fa fa-bullhorn" aria-hidden="true"></i> [Are open data actually reusable?](https://tomhardwicke.netlify.com/blog/open-data-reusability/)
+Tom Hardwicke discusses why open data alone will not be enough to achieve the benefits envisioned by proponents of data sharing.
+
+#### <i class="fa fa-bullhorn" aria-hidden="true"></i> [Where do the numbers published in scientific articles come from?](https://tomhardwicke.netlify.com/blog/psychology-reproducibility/)
+Tom Hardwicke describes how a recent attempt to reproduce findings reported in a sample of psychology articles revealed analysis pipelines peppered with errors.

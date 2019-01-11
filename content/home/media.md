@@ -1,52 +1,22 @@
 +++
-# Projects widget.
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
 widget = "media"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Media"
-subtitle = ""
+subtitle = "Podcasts, blogs, and other media"
 
 # Order that this section will appear in.
 weight = 7
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "media"
-
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 0
-
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
-
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
- 
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-# 
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
-
 +++
 
+#### <i class="fa fa-podcast" aria-hidden="true"></i> [STEM-Talk](https://www.ihmc.us/stemtalk/episode-77/)
+John Ioannidis discusses his paper 'Why most published research findings are false'.
+
+#### <i class="fa fa-podcast" aria-hidden="true"></i> [The Recommended Dose](https://player.fm/series/the-recommended-dose-with-ray-moynihan/ep-09-john-ioannidis)
+John Ioannidis talks to Ray Moynihan about the far-reaching implications of his paper 'Why most published research findings are false' for people both inside and outside the world of health.
