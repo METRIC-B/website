@@ -34,7 +34,7 @@
       {{ $items := where (where .Site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice $project) }}
       {{ $pubs_len := len $items }}
       {{ if ge $pubs_len 1 }}
-        <h2>METRIC-B {{ (i18n "publications") }}</h2>
+        <h2>METRIC-Berlin {{ (i18n "publications") }}</h2>
         {{ range $items }}
           {{ if eq $page.Site.Params.projects.publication_format 1 }}
             {{ partial "publication_li_detailed" . }}
