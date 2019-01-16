@@ -53,7 +53,7 @@
       {{ $items := where (where .Site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
       {{ $talks_len := len $items }}
       {{ if ge $talks_len 1 }}
-        <h2>METRIC-B {{ (i18n "talks") }}</h2>
+        <h2>METRIC-Berlin {{ (i18n "talks") }}</h2>
         {{ range sort $items ".Params.time_start" "desc" }}
           {{ if eq $page.Site.Params.projects.talk_format 1 }}
             {{ partial "talk_li_detailed" . }}
