@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Who are we? The Meta-Research Innovation Center Berlin (METRIC-Berlin), the European sister of The Meta-Research Innovation Center at Stanford (METRICS), was founded in January 2019 by Professor John Ioannidis. We are hosted by the Quality, Ethics, Open Science, Translation Center (QUEST) of the Berlin Institute of Health (BIH) based at the Charité – Universitätsmedizin Berlin. Below you can meet our team, read about our research, view our publications, find out about previous and upcoming talks, and get in touch.</description>
+      <description>Who are we? The Meta-Research Innovation Center Berlin (METRIC-Berlin), the European sister of The Meta-Research Innovation Center at Stanford (METRICS), was founded in January 2019 by Professor John Ioannidis with funding from the Stiftung Charité and the Einstein Foundation Berlin. We are hosted by the Quality, Ethics, Open Science, Translation Center (QUEST) of the Berlin Institute of Health (BIH) based at the Charité – Universitätsmedizin Berlin. Below you can meet our team, learn about our research, view our publications, find out about previous and upcoming talks, browse our various podcasts and blog posts, meet our funders and partners and get in touch.</description>
     </item>
     
     <item>
@@ -95,11 +95,11 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
+      <title>Funders and partners</title>
+      <link>/home/partners/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>/home/partners/</guid>
       <description></description>
     </item>
     
@@ -109,6 +109,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
