@@ -1,6 +1,6 @@
 +++
 title = "UPCOMING: Recalibrating the scientific ecosystem through meta research"
-date = 2019-07-22T00:00:00  # Schedule page publish date.
+date = 2019-01-29T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
