@@ -1,25 +1,25 @@
 +++
-title = "UPCOMING: Calibrating the scientific ecosystem through meta research"
+title = "UPCOMING: Scientific evidence: reproducible and useful"
 date = 2019-01-29T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-03-12T13:00:00
-time_end = 2019-03-12T14:00:00
+time_start = 2019-03-27T17:00:00
+time_end = 2019-03-27T19:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tom Hardwicke"]
+authors = ["John Ioannidis"]
 
 # Abstract
 abstract = ""
 
 # Name of event and optional event URL.
-event = "ZPID International symposium on 'The replication  crisis  and  open  science  in  psychology'"
-event_url = "https://conferences.leibniz-psychology.org/index.php/openscience/os2019"
+event = "METRIC-Berlin Opening"
+event_url = "https://www.bihealth.org/de/quest-center/aktuelles/termine/bih-lecture-john-p-a-ioannidis/"
 
 # Location of event.
-location = "University of Trier, Germany"
+location = "Kaiserin Friedrich-Haus, Robert-Koch-Platz 7, 10115 Berlin"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -30,7 +30,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["tomhardwicke"]
+projects = ["johnioannidis"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
