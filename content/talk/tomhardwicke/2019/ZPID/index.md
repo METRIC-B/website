@@ -1,5 +1,5 @@
 +++
-title = "UPCOMING: Calibrating the scientific ecosystem through meta research"
+title = "Calibrating the scientific ecosystem through meta research"
 date = 2019-01-29T00:00:00  # Schedule page publish date.
 draft = false
 
