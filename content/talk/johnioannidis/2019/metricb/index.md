@@ -1,5 +1,5 @@
 +++
-title = "UPCOMING: Scientific evidence: reproducible and useful"
+title = "Scientific evidence: reproducible and useful"
 date = 2019-01-29T00:00:00  # Schedule page publish date.
 draft = false
 
