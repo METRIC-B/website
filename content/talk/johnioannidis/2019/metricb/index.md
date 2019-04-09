@@ -16,7 +16,7 @@ abstract = ""
 
 # Name of event and optional event URL.
 event = "METRIC-Berlin Opening"
-event_url = "https://www.bihealth.org/de/quest-center/aktuelles/termine/bih-lecture-john-p-a-ioannidis/"
+event_url = "https://www.youtube.com/watch?time_continue=12&v=i4XjP0FaeRg"
 
 # Location of event.
 location = "Kaiserin Friedrich-Haus, Robert-Koch-Platz 7, 10115 Berlin"
