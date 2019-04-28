@@ -32,8 +32,8 @@ projects = ["tomhardwicke", "johnioannidis"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [
-{name = "DOI", url = ""},
-{name = "PDF", url = ""},
+{name = "DOI", url = "https://doi.org/10.31222/osf.io/6uhg5"},
+{name = "PDF", url = "https://doi.org/10.31222/osf.io/6uhg5"},
 {name = "Pre-registration", url = "https://osf.io/u5bk9/"},
 {name = "Preprint", url = "https://doi.org/10.31222/osf.io/6uhg5"},
 {name = "Data", url = "https://osf.io/u9fw8/"},
