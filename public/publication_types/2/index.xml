@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)</title>
+      <link>/publication/socsci_transparency2014-2017/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/socsci_transparency2014-2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping the universe of registered reports</title>
