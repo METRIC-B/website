@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Calibrating the scientific ecosystem through meta-research</title>
+      <link>/publication/calibrating-meta-research/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/calibrating-meta-research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)</title>
