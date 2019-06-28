@@ -34,8 +34,8 @@ projects = ["tomhardwicke", "johnioannidis"]
 url_custom = [
 {name = "DOI", url = "https://doi.org/10.31222/osf.io/6uhg5"},
 {name = "PDF", url = "https://doi.org/10.31222/osf.io/6uhg5"},
-{name = "Pre-registration", url = "https://osf.io/u5bk9/"},
 {name = "Preprint", url = "https://doi.org/10.31222/osf.io/6uhg5"},
+{name = "Pre-registration", url = "https://osf.io/u5bk9/"},
 {name = "Data", url = "https://osf.io/u9fw8/"},
 {name = "Materials", url = "https://osf.io/z9qtr/"},
 {name = "Analysis Code", url = "https://osf.io/sbrez/"},

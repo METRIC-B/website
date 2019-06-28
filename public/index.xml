@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Petitions in scientific argumentation: dissecting the request to retire statistical significance</title>
+      <link>/publication/rss-survey/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/rss-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Calibrating the scientific ecosystem through meta-research</title>
       <link>/publication/calibrating-meta-research/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
@@ -753,16 +762,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tom Hardwicke</title>
-      <link>/team/tomhardwicke/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/team/tomhardwicke/</guid>
-      <description>&lt;p&gt;Dr Tom Hardwicke completed a BSc in Psychology at Cardiff University, MRes in Brain Imaging and Cognitive Neuroscience at The University of Birmingham, and PhD in Experimental Psychology at University College London before joining the Meta-Research Innovation Center at Stanford (METRICS) as a Postdoctoral Fellow in 2017. After two happy years in the Californian sunshine, Tom is now heading across the pond to Germany in January 2019 to set up the Meta-Research Innovation Center Berlin (METRIC-Berlin). Tom&amp;rsquo;s work involves empirical assessments of bias and reproduciblity, developing tools and guidelines to improve research transparency and mitigate error, and evaluating policies and initiatives intended to improve the quality and efficiency of the scientific endeavour, such as pre-registration, Registered Reports, and open data.&lt;/p&gt;
 </description>
     </item>
     
