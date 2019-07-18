@@ -15,6 +15,10 @@ weight = 7
 
 +++
 
+#### <i class="fa fa-podcast" aria-hidden="true"></i> [The ORION Open Science Podcast](https://www.podbean.com/ew/pb-cgsfy-b82e37)
+A Metric for Optimism: John Ioannidis on Reproducibility, Preregistration, and Data Sharing.
+
+
 #### <i class="fa fa-podcast" aria-hidden="true"></i> [STEM-Talk](https://www.ihmc.us/stemtalk/episode-77/)
 John Ioannidis discusses his paper 'Why most published research findings are false'.
 

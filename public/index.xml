@@ -564,6 +564,10 @@ Figure 1: A fancy pie chart.
 
 &lt;div id=&#34;podcasts&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Podcasts&lt;/h2&gt;
+&lt;div id=&#34;the-orion-open-science-podcast&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;i class=&#34;fa fa-podcast&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.podbean.com/ew/pb-cgsfy-b82e37&#34;&gt;The ORION Open Science Podcast&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;A Metric for Optimism: John Ioannidis on Reproducibility, Preregistration, and Data Sharing.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div id=&#34;stem-talk&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;&lt;i class=&#34;fa fa-podcast&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.ihmc.us/stemtalk/episode-77/&#34;&gt;STEM-Talk&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;John Ioannidis discusses his paper ‘Why most published research findings are false’.&lt;/p&gt;
