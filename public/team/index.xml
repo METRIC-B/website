@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>John Ioannidis</title>
+      <title> John Ioannidis</title>
       <link>/team/johnioannidis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,12 +21,21 @@
     </item>
     
     <item>
-      <title>Tom Hardwicke</title>
+      <title> Tom Hardwicke</title>
       <link>/team/tomhardwicke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/tomhardwicke/</guid>
       <description>Dr Tom Hardwicke completed a BSc in Psychology at Cardiff University, MRes in Brain Imaging and Cognitive Neuroscience at The University of Birmingham, and PhD in Experimental Psychology at University College London before joining the Meta-Research Innovation Center at Stanford (METRICS) as a Postdoctoral Fellow in 2017. After two happy years in the Californian sunshine, Tom is now heading across the pond to Germany in January 2019 to set up the Meta-Research Innovation Center Berlin (METRIC-Berlin).</description>
+    </item>
+    
+    <item>
+      <title>Sophia Crüwell</title>
+      <link>/team/sophiacruwell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/sophiacruwell/</guid>
+      <description>Sophia Crüwell completed a BA in Natural Sciences (Part II) and Philosophy (Part I) at the University of Cambridge, and an MSc (Research) at the University of Amsterdam, where she majored in Psychological Methods and Statistics and minored in Logic. She has just started her PhD in Metascience with METRIC-Berlin and plans to focus on researching incentive structures. You can also find her co-hosting the Open Science focussed podcast ReproducibiliTea.</description>
     </item>
     
   </channel>

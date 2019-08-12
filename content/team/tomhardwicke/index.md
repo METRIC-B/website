@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Tom Hardwicke"
+title = " Tom Hardwicke"
 subtitle = "Postdoctoral Scholar"
 
 # Project summary to display on homepage.

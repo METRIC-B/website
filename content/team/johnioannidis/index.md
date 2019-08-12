@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "John Ioannidis"
+title = " John Ioannidis"
 subtitle = "Director"
 
 # Project summary to display on homepage.
