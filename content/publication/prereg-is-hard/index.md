@@ -24,7 +24,7 @@ publication = "Trends in Cognitive Sciences"
 abstract = "Preregistration clarifies the distinction between planned and unplanned research by reducing unnoticed flexibility. This improves credibility of findings and calibration of uncertainty. However, making decisions before conducting analyses requires practice. During report writing, respecting both what was planned and what actually happened requires good judgment and humility in making claims."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 projects = ["tomhardwicke"]
