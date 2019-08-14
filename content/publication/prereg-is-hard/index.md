@@ -32,6 +32,8 @@ projects = ["tomhardwicke"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [
+{name = "DOI", url = "https://doi.org/10.1016/j.tics.2019.07.009"},
+{name = "Preprint", url = "https://doi.org/10.31234/osf.io/wu3vs"},
 ]
 
 # Does this page contain LaTeX math? (true/false)
