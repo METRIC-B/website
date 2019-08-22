@@ -18,13 +18,13 @@ authors = ["Tom Hardwicke", "John Ioannidis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "MetaArXiv"
+publication = "European Journal of Clinical Investigation"
 
 # Abstract and optional shortened version.
 abstract = "Petitions have a long history of being used for political, social, ethical, and injustice issues, however, it is unclear how/whether they should be implemented in scientific argumentation. Recently, an extremely influential commentary published in Nature (Amrhein et al., 2019) calling for the abandonment of “statistical significance” was signed by 854 scientists. We surveyed signatories and observed substantial heterogeneity in respondents’ perceptions of the petition process, motivations for signing, and views on aspects of abandoning statistical significance. The top-cited signatories were strongly concentrated in a few scientific fields. In a random sample of 100 signatories, 62 published at least one paper in 2018 using statistical inference and most of them had used the phrase “statistical significance”. When scientists sign petitions, they may have variable views on important aspects and it is useful to understand this diversity."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 projects = ["tomhardwicke", "johnioannidis"]
@@ -32,7 +32,7 @@ projects = ["tomhardwicke", "johnioannidis"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [
-{name = "DOI", url = "https://doi.org/10.31222/osf.io/73xm5"},
+{name = "DOI", url = "https://doi.org/10.1111/eci.13162"},
 {name = "PDF", url = "https://doi.org/10.31222/osf.io/73xm5"},
 {name = "Preprint", url = "https://doi.org/10.31222/osf.io/73xm5"},
 {name = "Pre-registration", url = "https://osf.io/hbkj3/"},
