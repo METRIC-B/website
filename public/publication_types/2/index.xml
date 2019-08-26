@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Robust Standards in Cognitive Science</title>
+      <link>/publication/robust-standards-cogsci/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/robust-standards-cogsci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Should psychology journals adopt specialized statistical review?</title>

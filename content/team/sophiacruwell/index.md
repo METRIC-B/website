@@ -11,7 +11,7 @@ external_link = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fa", icon="envelope", name="E-mail", url = "mailto:sophia.cruewell@charite.de"}, {icon_pack = "fa", icon="globe", name="Website", url = "https://metricberlin.netlify.com/"}, {icon_pack = "fa", icon="twitter", name="Twitter", url = "https://twitter.com/cruwelli"}, {icon_pack = "ai", icon="google-scholar", name="Google Scholar", url = "https://scholar.google.com/citations?user=VygLVc4AAAAJ&hl=en"}, {icon_pack = "ai", icon="osf", name="OSF", url = "https://osf.io/zwvn2/"}]
+url_custom = [{icon_pack = "fa", icon="envelope", name="E-mail", url = "mailto:sophia.cruewell@charite.de"}, {icon_pack = "fa", icon="globe", name="Website", url = "https://cruwell.com/"}, {icon_pack = "fa", icon="twitter", name="Twitter", url = "https://twitter.com/cruwelli"}, {icon_pack = "ai", icon="google-scholar", name="Google Scholar", url = "https://scholar.google.com/citations?user=VygLVc4AAAAJ&hl=en"}, {icon_pack = "ai", icon="osf", name="OSF", url = "https://osf.io/zwvn2/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

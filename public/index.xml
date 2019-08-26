@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta-Research Innovation Center Berlin on Meta-Research Innovation Center Berlin</title>
@@ -7,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robust Standards in Cognitive Science</title>
+      <link>/publication/robust-standards-cogsci/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/robust-standards-cogsci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Should psychology journals adopt specialized statistical review?</title>
@@ -549,16 +557,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title> John Ioannidis</title>
-      <link>/team/johnioannidis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/team/johnioannidis/</guid>
-      <description>&lt;p&gt;John P.A. Ioannidis, MD, DSc is the C.F. Rehnborg Professor in Disease Prevention, and Professor of Medicine, of Health Research and Policy, of Biomedical Data Science, and of Statistics at Stanford University and a BIH Visiting Fellow funded by the Stiftung Charité and the Einstein Foundation Berlin. Dr. Ioannidis is internationally recognized as a leader in empirical studies assessing biases, replication, and reliability of research findings in biomedicine and beyond. He has received numerous awards and honorary doctorates and titles and he is a member of the US National Academy of Medicine and of the European Academy of Sciences and Arts. He has served as President of the Society for Research Synthesis Methodology, Senior Advisor for Knowledge Integration at the National Cancer Institute, editorial board member of 30 leading international journals and Editor-in-Chief of the European Journal of Clinical Investigation. He is one of the most-cited scientists worldwide. His PLoS Medicine paper on “Why most Published Research Findings are False,” has been the most-accessed article in the history of Public Library of Science with over 2.5 million hits.&lt;/p&gt;
 </description>
     </item>
     
