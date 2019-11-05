@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Robust Standards in Cognitive Science</title>
       <link>/publication/robust-standards-cogsci/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/robust-standards-cogsci/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Should psychology journals adopt specialized statistical review?</title>
       <link>/publication/stat-review-psych/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/stat-review-psych/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Petitions in scientific argumentation: dissecting the request to retire statistical significance</title>
       <link>/publication/rss-survey/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/rss-survey/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Calibrating the scientific ecosystem through meta-research</title>
       <link>/publication/calibrating-meta-research/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/calibrating-meta-research/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Preregistration is hard, and worthwhile</title>
       <link>/publication/prereg-is-hard/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/prereg-is-hard/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)</title>
       <link>/publication/socsci_transparency2014-2017/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +1000</pubDate>
       
       <guid>/publication/socsci_transparency2014-2017/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Mapping the universe of registered reports</title>
       <link>/publication/registered-reports-universe/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +1100</pubDate>
       
       <guid>/publication/registered-reports-universe/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Populating The Data Ark: An attempt to obtain and preserve data from the most highly-cited psychology and psychiatry articles</title>
       <link>/publication/data-ark/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +1000</pubDate>
       
       <guid>/publication/data-ark/</guid>
       <description></description>

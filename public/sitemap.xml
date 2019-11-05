@@ -1,37 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-08-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-08-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-08-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/robust-standards-cogsci/</loc>
-      <lastmod>2019-08-26T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-26T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -39,7 +13,7 @@
     <url>
     
       <loc>/publication/stat-review-psych/</loc>
-      <lastmod>2019-07-03T00:00:00+02:00</lastmod>
+      <lastmod>2019-07-03T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -47,7 +21,7 @@
     <url>
     
       <loc>/publication/rss-survey/</loc>
-      <lastmod>2019-06-28T00:00:00+02:00</lastmod>
+      <lastmod>2019-06-28T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -55,7 +29,7 @@
     <url>
     
       <loc>/publication/calibrating-meta-research/</loc>
-      <lastmod>2019-06-13T00:00:00+02:00</lastmod>
+      <lastmod>2019-06-13T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -63,7 +37,7 @@
     <url>
     
       <loc>/publication/prereg-is-hard/</loc>
-      <lastmod>2019-06-13T00:00:00+02:00</lastmod>
+      <lastmod>2019-06-13T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -71,7 +45,7 @@
     <url>
     
       <loc>/publication/socsci_transparency2014-2017/</loc>
-      <lastmod>2019-04-28T00:00:00+02:00</lastmod>
+      <lastmod>2019-04-28T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -79,7 +53,7 @@
     <url>
     
       <loc>/talk/tomhardwicke/2019/zpid/</loc>
-      <lastmod>2019-01-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -87,7 +61,7 @@
     <url>
     
       <loc>/talk/johnioannidis/2019/metricb/</loc>
-      <lastmod>2019-01-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -95,7 +69,7 @@
     <url>
     
       <loc>/talk/tomhardwicke/2018/bankofengland/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-07T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -103,7 +77,7 @@
     <url>
     
       <loc>/talk/johnioannidis/2016/</loc>
-      <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-07T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -111,7 +85,7 @@
     <url>
     
       <loc>/publication/registered-reports-universe/</loc>
-      <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -119,7 +93,7 @@
     <url>
     
       <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -127,7 +101,7 @@
     <url>
     
       <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+      <lastmod>2018-09-09T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -135,7 +109,7 @@
     <url>
     
       <loc>/publication/data-ark/</loc>
-      <lastmod>2018-08-02T00:00:00+02:00</lastmod>
+      <lastmod>2018-08-02T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -143,7 +117,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -151,7 +125,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -159,16 +133,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -176,25 +141,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2018-01-13T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -203,42 +150,6 @@
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -259,7 +170,69 @@
     
     <url>
     
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-08-26T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/media/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-08-26T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/r/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r-markdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -288,7 +261,34 @@
     
     <url>
     
+      <loc>/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/team/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

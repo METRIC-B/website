@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Calibrating the scientific ecosystem through meta research</title>
       <link>/talk/tomhardwicke/2019/zpid/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/talk/tomhardwicke/2019/zpid/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Scientific evidence: reproducible and useful</title>
       <link>/talk/johnioannidis/2019/metricb/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/talk/johnioannidis/2019/metricb/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Rehabilitating the scientific ecosystem</title>
       <link>/talk/tomhardwicke/2018/bankofengland/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +1100</pubDate>
       
       <guid>/talk/tomhardwicke/2018/bankofengland/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Reproducibility and improving research practices</title>
       <link>/talk/johnioannidis/2016/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +1100</pubDate>
       
       <guid>/talk/johnioannidis/2016/</guid>
       <description></description>
