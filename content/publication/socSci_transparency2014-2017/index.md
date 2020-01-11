@@ -4,7 +4,7 @@ date = 2019-04-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tom Hardwicke", "Joshua Wallach", "Mallory Kidwell", "John Ioannidis"]
+authors = ["Tom Hardwicke", "Joshua Wallach", "Mallory Kidwell", "Theiss Bendixen", "Sophia Crüwell", "John Ioannidis"]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = "Serious concerns about research quality have catalyzed a number of r
 selected = true
 
 # Projects (optional).
-projects = ["tomhardwicke", "johnioannidis"]
+projects = ["tomhardwicke", "johnioannidis", "sophiacruwell"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
