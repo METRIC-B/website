@@ -1,5 +1,5 @@
 +++
-title = "A very short introduction to open science"
+title = "What is this thing called open science?"
 date = 2020-01-11T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -46,7 +46,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "osf.io/6fq2u/"
 url_video = ""
 url_code = ""
 
