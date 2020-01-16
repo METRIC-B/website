@@ -18,7 +18,7 @@ authors = ["Brian Nosek", "Emorie Beck", "Lorne Campbell", "Jessica Flake", "Tom
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Trends in Cognitive Sciences"
+publication = "*Trends in Cognitive Sciences*"
 
 # Abstract and optional shortened version.
 abstract = "Preregistration clarifies the distinction between planned and unplanned research by reducing unnoticed flexibility. This improves credibility of findings and calibration of uncertainty. However, making decisions before conducting analyses requires practice. During report writing, respecting both what was planned and what actually happened requires good judgment and humility in making claims."

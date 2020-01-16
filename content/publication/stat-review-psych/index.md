@@ -18,7 +18,7 @@ draft = false
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Advances in Methods and Practices in Psychological Science"
+publication = "*Advances in Methods and Practices in Psychological Science*"
 
 # Abstract and optional shortened version.
 abstract = "Readers of peer-reviewed research may assume that the reported statistical analyses supporting scientific claims have been closely scrutinized and surpass a high-quality threshold. However, widespread misunderstanding and misuse of statistical concepts and methods suggests that suboptimal or erroneous statistical practice is routinely overlooked during peer review in psychology. Here, we explore whether psychology journals could ameliorate some of the field’s statistical ailments by adopting specialized statistical review: a focused technical assessment, performed by statistical experts, that addresses the analysis and presentation of quantitative information and supplements regular peer review. We discuss evidence from a recent survey of journal editors suggesting that specialized statistical review may be unusual in psychology journals and is regarded by many editors as unnecessary. We contrast these views with those in the biomedical domain, where statistical review has been considered a partial preventive measure against the improper use of statistics since the late 1970s. We suggest that the current “credibility revolution” presents an opportune occasion for psychology journals to consider adopting specialized statistical review."
