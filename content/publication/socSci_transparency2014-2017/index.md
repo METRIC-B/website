@@ -1,6 +1,6 @@
 +++
 title = "An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)"
-date = 2019-04-28T00:00:00
+date = 2020-02-19T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -32,8 +32,8 @@ projects = ["tomhardwicke", "johnioannidis", "sophiacruwell"]
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [
-{name = "DOI", url = "https://doi.org/10.31222/osf.io/6uhg5"},
-{name = "PDF", url = "https://doi.org/10.31222/osf.io/6uhg5"},
+{name = "DOI", url = "http://dx.doi.org/10.1098/rsos.190806"},
+{name = "PDF", url = "http://dx.doi.org/10.1098/rsos.190806"},
 {name = "Preprint", url = "https://doi.org/10.31222/osf.io/6uhg5"},
 {name = "Pre-registration", url = "https://osf.io/u5bk9/"},
 {name = "Data", url = "https://osf.io/u9fw8/"},

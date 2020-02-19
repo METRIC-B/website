@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)</title>
+      <link>/publication/socsci_transparency2014-2017/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/socsci_transparency2014-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What is this thing called open science?</title>
       <link>/talk/tomhardwicke/2020/frankfurt/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0100</pubDate>
@@ -79,15 +88,6 @@
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/prereg-is-hard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014-2017)</title>
-      <link>/publication/socsci_transparency2014-2017/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/socsci_transparency2014-2017/</guid>
       <description></description>
     </item>
     
