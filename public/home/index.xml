@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1300</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/about/</guid>
       <description>Who are we? The Meta-Research Innovation Center Berlin (METRIC-Berlin), the European sister of The Meta-Research Innovation Center at Stanford (METRICS), was founded in January 2019 by Professor John Ioannidis with funding from the Stiftung Charité and the Einstein Foundation Berlin. We are hosted by the Quality, Ethics, Open Science, Translation Center (QUEST) of the Berlin Institute of Health (BIH) based at the Charité – Universitätsmedizin Berlin. Below you can meet our team, learn about our research, view our publications, find out about previous and upcoming talks, browse our various podcasts and blog posts, meet our funders and partners and get in touch.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +1300</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Our team</title>
       <link>/home/team/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/team/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Our research</title>
       <link>/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/research/</guid>
       <description>Whilst some scientists study rocks, insects, brains, or molecules, we study the process of science itself. This meta-research, or &amp;lsquo;research on research&amp;rsquo;, involves evaluating quality, bias, and efficiency during critical phases of the research cycle, including methods, reporting, reproducibility, evaluation, and incentives. We take an interdisciplinary approach that seeks to cross-fertilize ideas and resources between fields to most effectively maximise the quality and efficiency of the scientific endeavour. You can take a look at some of our publications to get a flavour of the work that we do.</description>
@@ -60,7 +60,7 @@
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1200</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Media</title>
       <link>/home/media/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/media/</guid>
       <description>The ORION Open Science Podcast A Metric for Optimism: John Ioannidis on Reproducibility, Preregistration, and Data Sharing.
@@ -98,7 +98,7 @@
     <item>
       <title>Funders and partners</title>
       <link>/home/partners/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/partners/</guid>
       <description></description>
@@ -116,7 +116,7 @@
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
@@ -125,7 +125,7 @@
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -134,7 +134,7 @@
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
@@ -143,7 +143,7 @@
     <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -152,7 +152,7 @@
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -163,7 +163,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1200</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
